@@ -20,3 +20,5 @@ after_success:
   - docker push pkingo/multi-nginx
   - docker push pkingo/multi-server
   - docker push pkingo/multi-worker
+
+  
